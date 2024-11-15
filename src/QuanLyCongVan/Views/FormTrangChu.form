@@ -1844,10 +1844,10 @@
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
                   <Component id="ThanhMenu" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
                   <Component id="jPanel5" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
-                  <Component id="jPanel2" pref="573" max="32767" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jPanel2" min="-2" pref="573" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
               </Group>
           </Group>
@@ -1983,7 +1983,7 @@
                               <Component id="jLabel25" min="-2" pref="32" max="-2" attributes="0"/>
                           </Group>
                       </Group>
-                      <EmptySpace pref="16" max="32767" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
                   </Group>
                   <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
@@ -2519,7 +2519,7 @@
                           <Group type="102" attributes="0">
                               <Component id="jLabel30" min="-2" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jButton18" pref="63" max="32767" attributes="0"/>
+                              <Component id="jButton18" max="32767" attributes="0"/>
                           </Group>
                       </Group>
                       <EmptySpace max="32767" attributes="0"/>
@@ -2728,7 +2728,7 @@
                           <Component id="panelButton" max="32767" attributes="0"/>
                           <Component id="pnChuaCacCard" max="32767" attributes="0"/>
                       </Group>
-                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -2738,8 +2738,7 @@
                       <EmptySpace max="-2" attributes="0"/>
                       <Component id="pnChuaCacCard" min="-2" pref="443" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="panelButton" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="panelButton" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -2778,7 +2777,7 @@
                           <Component id="btnQLVBNoiBo" min="-2" pref="45" max="-2" attributes="0"/>
                           <EmptySpace type="unrelated" max="-2" attributes="0"/>
                           <Component id="btnTim_Thong" min="-2" pref="52" max="-2" attributes="0"/>
-                          <EmptySpace pref="20" max="32767" attributes="0"/>
+                          <EmptySpace pref="26" max="32767" attributes="0"/>
                       </Group>
                   </Group>
                 </DimensionLayout>
@@ -2898,7 +2897,7 @@
                                   <EmptySpace max="-2" attributes="0"/>
                                   <Group type="103" groupAlignment="0" attributes="0">
                                       <Component id="jButton2" pref="290" max="32767" attributes="0"/>
-                                      <Component id="jButton4" alignment="1" pref="290" max="32767" attributes="0"/>
+                                      <Component id="jButton4" alignment="0" pref="290" max="32767" attributes="0"/>
                                   </Group>
                                   <EmptySpace max="-2" attributes="0"/>
                               </Group>
@@ -2914,17 +2913,17 @@
                         <DimensionLayout dim="1">
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Group type="102" alignment="0" attributes="0">
-                                  <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
-                                  <Component id="jButton2" min="-2" pref="55" max="-2" attributes="0"/>
-                                  <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="94" max="-2" attributes="0"/>
+                                  <Component id="jButton2" min="-2" pref="56" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
                                   <Component id="jButton4" min="-2" pref="59" max="-2" attributes="0"/>
-                                  <EmptySpace pref="191" max="32767" attributes="0"/>
+                                  <EmptySpace pref="170" max="32767" attributes="0"/>
                               </Group>
                               <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
                                   <Group type="102" alignment="0" attributes="0">
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="jButton6" min="-2" pref="55" max="-2" attributes="0"/>
-                                      <EmptySpace pref="355" max="32767" attributes="0"/>
+                                      <Component id="jButton6" min="-2" pref="56" max="-2" attributes="0"/>
+                                      <EmptySpace pref="354" max="32767" attributes="0"/>
                                   </Group>
                               </Group>
                           </Group>
